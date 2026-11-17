@@ -14,7 +14,7 @@ from torch.utils.data import Dataset, DataLoader
 SEED = 2026
 batch_size = 64
 lr = 2e-4
-max_epochs = 20
+max_epochs = 15
 d_model = 128
 nhead = 8
 num_layers = 8
